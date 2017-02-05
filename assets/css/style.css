@@ -9,9 +9,9 @@ h1, h2, h3 {
 
 body {
     background-image: url("../images/background.png");
-    color: #333333;
+    color: #07161d;
     font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
-
+background-color: WHITE; 
     margin: 0;
     padding: 0;
 }
